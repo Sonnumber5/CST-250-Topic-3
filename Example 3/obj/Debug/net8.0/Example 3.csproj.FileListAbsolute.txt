@@ -1,0 +1,14 @@
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\bin\Debug\net8.0\Example 3.exe
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\bin\Debug\net8.0\Example 3.deps.json
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\bin\Debug\net8.0\Example 3.runtimeconfig.json
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\bin\Debug\net8.0\Example 3.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\bin\Debug\net8.0\Example 3.pdb
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\Example 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\Example 3.AssemblyInfoInputs.cache
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\Example 3.AssemblyInfo.cs
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\Example 3.csproj.CoreCompileInputs.cache
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\Example 3.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\refint\Example 3.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\Example 3.pdb
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\Example 3.genruntimeconfig.cache
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 3\Example 3\Example 3\obj\Debug\net8.0\ref\Example 3.dll
